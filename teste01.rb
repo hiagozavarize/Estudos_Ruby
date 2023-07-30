@@ -1,7 +1,7 @@
 numeros = []
 
 begin
-    print "Digite um número "
+    print "Digite um número " 
     numero = gets.chomp.to_i
     numeros << numero
 
